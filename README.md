@@ -1,2 +1,6 @@
 # css-effects-responsive-touch-slider
-UX-UI Design
+
+> **#swiperjs API** | **#swiper effect coverflow**
+
+# Demo
+<img src="images/demo.gif" alt="effects-responsive-touch-slider">
